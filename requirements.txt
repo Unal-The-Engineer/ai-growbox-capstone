@@ -1,0 +1,41 @@
+# FastAPI & Server
+fastapi
+uvicorn[standard]
+
+# HTTP Requests
+requests
+
+# Environment Variables
+python-dotenv
+
+# GPIO (Raspberry Pi)
+gpiozero
+lgpio
+
+# LangChain & OpenAI
+openai
+langchain
+langchain-community
+tiktoken
+
+# Image Processing (YOLO - optional)
+opencv-python
+Pillow
+numpy
+pandas
+matplotlib
+
+# YOLO Scheduling
+schedule
+
+# WebSockets
+websockets
+
+# Markdown rendering (optional)
+markdown
+
+# File serving
+python-multipart
+
+# Python 3.10+ standard typing support
+typing-extensions
