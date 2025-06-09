@@ -27,12 +27,3 @@ An AI-powered IoT growbox system designed to monitor and control environmental c
 | Hardware    | Raspberry Pi, DHT22, MQ-135, YL-69, Camera, Relays |
 | Realtime    | WebSocket                   |
 
----
-
-## 🛠️ Installation
-
-### 1. Clone the Project
-
-```bash
-git clone https://github.com/yusufkrkmz/smart-growbox.git
-cd smart-growbox
