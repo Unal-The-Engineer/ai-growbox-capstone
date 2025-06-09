@@ -23,7 +23,7 @@ An AI-powered IoT growbox system designed to monitor and control environmental c
 | Frontend    | React, TypeScript, Tailwind |
 | Backend     | FastAPI, Python             |
 | AI Layer    | OpenAI GPT API, LangChain   |
-| Image AI    | YOLOv5 (custom pipeline)    |
+| Image AI    | YOLOv8 (custom pipeline)    |
 | Hardware    | Raspberry Pi, DHT22, MQ-135, YL-69, Camera, Relays |
 | Realtime    | WebSocket                   |
 
